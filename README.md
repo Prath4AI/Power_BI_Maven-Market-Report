@@ -4,9 +4,6 @@ The objective of this project was to design a dynamic and insightful Power BI da
 
 ![Image](https://github.com/user-attachments/assets/6a97e462-f423-42da-993c-6a94b4450b3f)
 
-
-Sure — let’s compile a clean, structured **Power BI Project Report** for you based on your dashboard visuals and the AdventureWorks report content you’ve shared.
-
 ---
 
 ##  Power BI Project Report: AdventureWorks Orders & Performance Dashboard
